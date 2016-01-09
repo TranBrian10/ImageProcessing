@@ -1,4 +1,4 @@
-# ImageProcessing
+# Pic Processor
 
 Created in C#. To run, open the .sln file in Visual Studio and hit "Run".
 
